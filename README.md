@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LincolnRychecky
-- 📫 How to reach me liry9073@colorado.edu
+- 📫 How to reach me lincolnrychecky@gmail.com
 
 <!---
 LincolnRychecky/LincolnRychecky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
