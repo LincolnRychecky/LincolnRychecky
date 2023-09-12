@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LincolnRychecky
+- 👋 Hi, I’m @LincolnRychecky. MS Computer Science University of Colorado Boulder.
 - 📫 How to reach me lincolnrychecky@gmail.com
 
 <!---
