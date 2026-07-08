@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LincolnRychecky. I am a software engineer with an M.S. Computer Science from the University of Colorado Boulder and cofounder of DogBase.
+- 👋 Hi, I’m @LincolnRychecky. I am a software engineer with an M.S. Computer Science from the University of Colorado Boulder.
 - 📫 How to reach me lincolnrychecky@gmail.com
 - 🚀 Skills/Technologies - Golang, Javascript, Typescript, Python, Java, Apex, Svelte/Sveltekit, Lightning Web Components, Salesforce Development, Google Cloud Platform, DEVOPS, Applied ML, Cloud Technical Architecture.
 <!---
